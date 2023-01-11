@@ -12,11 +12,12 @@ Ambiente para a criação dos testes: https://demo.realworld.io/#/
 
 **Importante**
 - Os testes devem passar, mesmo executando várias vezes
-- Utilize testes de API de maneira a simular uma resposta do back-end;
+- Utilize testes de API de maneira a simular uma resposta do back-end
 - Adicione asserções ao seu teste
 - Adicione o arquivo .gitignore
 - Adicione a execução no Github Actions
-- Utilize Commands do cypress para o Login;
+- Utilize Commands do cypress para o Login
+- Utilize simple-page-objects no projeto
 
 ### Instalação
 Clonar projeto Git
